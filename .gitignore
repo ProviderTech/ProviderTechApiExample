@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Production.ProviderTechCustomerPortal/ProviderTechCustomerPortal/adhocimport.csv
+
+ProviderTechCustomerPortal/ProviderTechCustomerPortal/Web\.config

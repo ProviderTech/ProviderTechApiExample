@@ -1,0 +1,12 @@
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\ProviderTechApiExample.exe.config
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\ProviderTechApiExample.exe
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\ProviderTechApiExample.pdb
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\Newtonsoft.Json.dll
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\RestSharp.dll
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\Newtonsoft.Json.xml
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\bin\Debug\RestSharp.xml
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\obj\Debug\ProviderTechApiExample.csprojAssemblyReference.cache
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\obj\Debug\ProviderTechApiExample.csproj.CoreCompileInputs.cache
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\obj\Debug\ProviderTechApiExample.csproj.CopyComplete
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\obj\Debug\ProviderTechApiExample.exe
+C:\repos\ProviderTechApiExample\ProviderTechApiExample\obj\Debug\ProviderTechApiExample.pdb
