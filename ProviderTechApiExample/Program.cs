@@ -116,7 +116,7 @@ namespace ProviderTechApiExample
                 var processedPatients = JsonConvert.DeserializeObject<List<Patient>>(response.Content);
                 foreach (var patient in processedPatients)
                 {
-                    Console.WriteLine("AppointmentId {0}, Status {1}, Details{2}", patient.Id, patient.MessageStatus, patient.MessageDetail);
+                    Console.WriteLine("PatientId {0}, Status {1}, Details{2}", patient.Id, patient.MessageStatus, patient.MessageDetail);
                 }
             }
             catch (Exception e)
